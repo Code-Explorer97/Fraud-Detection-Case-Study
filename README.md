@@ -47,5 +47,5 @@ You can download it and place it in the project directory before running the not
    git clone https://github.com/YOUR_USERNAME/fraud-detection-case-study.git
 
 ## Author
-Kaif Siddiqui
+# Kaif Siddiqui
 
