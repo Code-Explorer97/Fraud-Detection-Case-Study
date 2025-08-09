@@ -5,7 +5,7 @@ The dataset is based on the PaySim simulation, which models mobile money transac
 
 ## 📊 Project Overview
 - **Goal**: Detect fraudulent transactions proactively.
-- **Dataset**: ~6.3 million rows, 10 columns (transaction details, balances, labels).
+- **Dataset**: ~6.3 million rows, 10 columns.
 - **Target Variable**: `isFraud` (1 = Fraud, 0 = Not Fraud)
 
 ## 🛠 Features of the Project
@@ -26,8 +26,8 @@ The dataset is based on the PaySim simulation, which models mobile money transac
    - Key fraud indicators: transaction amount, unusual balances, transaction type.
 
 ## 📈 Results
-- Strong recall on fraud detection (important for minimizing missed frauds)
-- ROC AUC Score: ~0.94 (on sample dataset)
+- Strong recall on fraud detection.
+- ROC AUC Score: ~0.97
 
 ## 🛠 Tools & Libraries
 - Python
