@@ -1,4 +1,4 @@
-# Fraud Detection Case Study
+# ML-Fraud-Detection-Project
 
 This project predicts fraudulent financial transactions using machine learning.  
 The dataset is based on the PaySim simulation, which models mobile money transactions and labels them as legitimate or fraudulent.
