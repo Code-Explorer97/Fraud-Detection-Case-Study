@@ -45,3 +45,7 @@ You can download it and place it in the project directory before running the not
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/fraud-detection-case-study.git
+
+## Author
+Kaif Siddiqui
+
