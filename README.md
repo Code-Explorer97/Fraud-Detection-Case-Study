@@ -36,6 +36,11 @@ The dataset is based on the PaySim simulation, which models mobile money transac
 - imbalanced-learn (SMOTE)
 - Matplotlib, Seaborn
 
+## 📂 Dataset Source
+This project uses the [PaySim Mobile Money Transaction Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1) from Kaggle.  
+You can download it and place it in the project directory before running the notebook.
+
+
 ## 📂 How to Run
 1. Clone the repository:
    ```bash
